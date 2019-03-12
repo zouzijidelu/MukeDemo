@@ -1,2 +1,5 @@
 # MukeDemo
-practice
+practice the react-native 
+
+a demo of muke
+
